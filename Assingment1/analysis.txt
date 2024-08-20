@@ -1,0 +1,40 @@
+Observations for NO:
+
+#Sample 1:
+Enter the file name: no1.txt
+Noise Floor: 0.477912
+Start of the word: 11058
+End of the word: 17668
+Average Energy: 4.44325e+06
+Average ZCR: 0.0554487
+The word is: No
+
+#Sample 2:
+Enter the file name: no2.txt
+Noise Floor: 0.477912
+Start of the word: 16891
+End of the word: 22693
+Average Energy: 1.42296e+06
+Average ZCR: 0.0467647
+The word is: No
+
+
+Observations for Yes:
+
+#Sample 1:
+Enter the file name: yes1.txt
+Noise Floor: 0.477912
+Start of the word: 15554
+End of the word: 22735
+Average Energy: 1.12904e+06
+Average ZCR: 0.238256
+The word is: Yes
+
+#Sample 2:
+Enter the file name: yes2.txt
+Noise Floor: 0.477912
+Start of the word: 15130
+End of the word: 26998
+Average Energy: 1.13659e+06
+Average ZCR: 0.519583
+The word is: Yes
