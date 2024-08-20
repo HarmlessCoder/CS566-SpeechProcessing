@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\Sem7\\Speech\\A2\\210101041_yes_no_2\\YesNoDetection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A2C542-85FF-4DDC-B243-019885C522AA}|YesNoDetection\\YesNoDetection.vcxproj|D:\\College\\Sem7\\Speech\\A2\\210101041_yes_no_2\\YesNoDetection\\YesNoDetection\\YesNoDetection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A2C542-85FF-4DDC-B243-019885C522AA}|YesNoDetection\\YesNoDetection.vcxproj|solutionrelative:YesNoDetection\\YesNoDetection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YesNoDetection.cpp",
+              "DocumentMoniker": "D:\\College\\Sem7\\Speech\\A2\\210101041_yes_no_2\\YesNoDetection\\YesNoDetection\\YesNoDetection.cpp",
+              "RelativeDocumentMoniker": "YesNoDetection\\YesNoDetection.cpp",
+              "ToolTip": "D:\\College\\Sem7\\Speech\\A2\\210101041_yes_no_2\\YesNoDetection\\YesNoDetection\\YesNoDetection.cpp",
+              "RelativeToolTip": "YesNoDetection\\YesNoDetection.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T09:21:56.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

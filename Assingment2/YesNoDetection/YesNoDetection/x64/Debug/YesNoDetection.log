@@ -1,0 +1,3 @@
+﻿  YesNoDetection.cpp
+D:\College\Sem7\Speech\A2\210101041_yes_no_2\YesNoDetection\YesNoDetection\YesNoDetection.cpp(41,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  YesNoDetection.vcxproj -> D:\College\Sem7\Speech\A2\210101041_yes_no_2\YesNoDetection\x64\Debug\YesNoDetection.exe
