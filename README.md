@@ -30,6 +30,9 @@ This assignment delves into the analysis of vowel sounds (a, e, i, o, u) using L
 
 Each vowel is processed to compute LPC coefficients and auto-correlation values, providing insights into the phonetic structure of the sounds.
 
+### [Assignment 4: Vowel Detection using Cepstral Coefficients](./Assignment4)
+To be updated...
+
 ## Conclusion
 
 This repository is a comprehensive collection of speech processing assignments that explore fundamental and advanced techniques in the field. The projects demonstrate a blend of signal processing, feature extraction, and classification, paving the way for more complex speech analysis and recognition systems.
